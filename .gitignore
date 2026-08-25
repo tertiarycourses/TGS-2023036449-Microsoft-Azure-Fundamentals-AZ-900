@@ -2,6 +2,17 @@
 /assessment/
 /assessment\ /
 
+# Private build, QA and publication state
+/.claude/
+/qa/
+/reference/
+/archive/
+/.env
+/.env.*
+/courseware/.env
+/courseware/.env.*
+/courseware/assets/*-imagegen.png
+
 # OS / editor
 .DS_Store
 .playwright-mcp/
