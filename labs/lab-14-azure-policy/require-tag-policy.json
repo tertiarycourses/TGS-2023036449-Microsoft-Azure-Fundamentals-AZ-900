@@ -1,0 +1,9 @@
+{
+  "if": {
+    "field": "tags['course']",
+    "exists": "false"
+  },
+  "then": {
+    "effect": "deny"
+  }
+}

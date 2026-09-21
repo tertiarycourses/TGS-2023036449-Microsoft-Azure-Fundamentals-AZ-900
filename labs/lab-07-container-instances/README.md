@@ -132,3 +132,15 @@ The output should be empty. Keep the resource group `rg-az900-labs` itself — i
 - A `--dns-name-label` gives a container group a public FQDN of the form `<label>.<region>.azurecontainer.io`.
 - `az container logs` replaces SSH for troubleshooting — you observe the app, not a server.
 - Choosing between **IaaS (VMs), containers, and PaaS** is about how much of the stack you want to manage — a core AZ-900 exam theme.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `deploy-container.sh` | Creates the container group and prints its FQDN: `bash deploy-container.sh <dns-label>`. |
+| `container-group.yaml` | The same container group as declarative YAML — deploy with `az container create --file`. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

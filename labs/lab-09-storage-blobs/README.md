@@ -155,3 +155,14 @@ Keep the resource group `rg-az900-labs` itself — it is reused until Lab 16.
 - Private containers block anonymous access; a **SAS token** grants scoped, time-limited access without exposing account keys.
 - Data-plane access uses either **Entra ID roles** (e.g. Storage Blob Data Reader) or **account keys** — separate from management-plane RBAC.
 - **Redundancy options** (LRS → ZRS → GRS → GZRS) increase durability and cost by copying data across zones and paired regions.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `manage-blobs.sh` | Uploads, lists and downloads a blob: `bash manage-blobs.sh <storage-account-name>`. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

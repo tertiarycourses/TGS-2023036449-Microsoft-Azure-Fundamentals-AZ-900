@@ -1,0 +1,25 @@
+{
+  "//": "Lab 14 — parameters file for the built-in 'Allowed locations' policy.",
+  "//usage": [
+    "Assign the built-in policy from Cloud Shell using this file:",
+    "",
+    "  az policy assignment create \\",
+    "    --name allowed-locations-az900 \\",
+    "    --display-name 'Allowed locations (AZ-900 lab)' \\",
+    "    --resource-group rg-az900-labs \\",
+    "    --policy e56962a6-4747-49cd-b67b-bf8b01975c4c \\",
+    "    --params @allowed-locations-policy.json",
+    "",
+    "Then test it — this deployment must FAIL, because westus is not allowed:",
+    "  az storage account create -g rg-az900-labs -n staz900deny$RANDOM -l westus --sku Standard_LRS",
+    "",
+    "Remove the assignment afterwards:",
+    "  az policy assignment delete --name allowed-locations-az900 --resource-group rg-az900-labs"
+  ],
+  "listOfAllowedLocations": {
+    "value": [
+      "southeastasia",
+      "eastasia"
+    ]
+  }
+}

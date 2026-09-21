@@ -115,3 +115,16 @@ The first command shows the assignment's name at the resource-group scope; the s
 - Policy assignments inherit down the scope hierarchy just like RBAC, but apply to **all users including Owners**.
 - Deny-effect policies block non-compliant deployments with `RequestDisallowedByPolicy`, naming the assignment responsible.
 - RBAC answers *who can act*; Policy answers *what is allowed* — the AZ-900 exam tests this distinction.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `allowed-locations-policy.json` | Parameters file for the built-in **Allowed locations** policy. |
+| `require-tag-policy.json` | A custom policy rule that denies any resource created without a `course` tag. |
+| `POLICY-USAGE.md` | How to assign, test and remove both policies from Cloud Shell. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

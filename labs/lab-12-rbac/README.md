@@ -122,3 +122,14 @@ Removing an assignment revokes access immediately — the user keeps their Entra
 - **Authentication** (Microsoft Entra ID verifies identity) is separate from **authorization** (RBAC decides permitted actions).
 - Assigning the least-privileged role needed (least privilege) limits the impact of mistakes and compromised accounts.
 - **Check access** and `az role assignment list` let you audit who can do what at a given scope.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `check-rbac.sh` | Lists your role assignments, what inherits from the subscription, and what `Reader` permits. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

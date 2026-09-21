@@ -111,3 +111,14 @@ Nothing was created in this lab — the VM wizard was cancelled before deploymen
 - How to check zone support for VM SKUs with `az vm list-skus --zone`.
 - That network latency grows with distance — measured live with azurespeed.com — driving region selection.
 - Availability zones deliver high availability within a region (99.99% SLA), while region pairs enable disaster recovery across regions.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `explore-regions.sh` | Runs every region / region-pair / availability-zone query in one pass. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

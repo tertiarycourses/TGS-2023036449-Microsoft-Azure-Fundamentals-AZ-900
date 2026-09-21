@@ -148,3 +148,14 @@ rm -rf ~/az900
 - ARM operations are idempotent — re-running `az group create` on an existing group succeeds safely.
 - Azure PowerShell (`Get-AzResourceGroup`) and the Azure CLI are equivalent management tools over the same Azure Resource Manager API.
 - The built-in editor (`code`) and upload/download buttons make Cloud Shell a complete lightweight management workstation.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `verify-setup.sh` | Verifies the CLI, your subscription and the shared `rg-az900-labs` resource group. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

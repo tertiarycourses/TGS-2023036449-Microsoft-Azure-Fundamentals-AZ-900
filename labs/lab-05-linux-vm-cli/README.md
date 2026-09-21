@@ -160,3 +160,15 @@ Only resources from other labs (e.g. Lab 4's VM and VNet, if you kept them) shou
 - Managing a Linux VM end to end: SSH from Cloud Shell, `apt install nginx`, and verifying with `curl` inside and outside the VM.
 - `az vm show --show-details --query powerState` distinguishes `VM running` from `VM deallocated` (no compute charges).
 - `az vm delete` leaves orphaned NICs, IPs and disks that still cost money — clean them up explicitly, or use the portal's "Delete with VM" checkboxes.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `deploy-linux-vm.sh` | Creates the Ubuntu VM, opens port 80 and prints the public IP and SSH command. |
+| `cleanup-linux-vm.sh` | Deletes the VM **and** its leftover NIC, public IP, NSG and disk. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

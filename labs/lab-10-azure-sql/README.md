@@ -124,3 +124,14 @@ Or in the portal: open `rg-az900-labs`, tick **db-az900** and the SQL server, cl
 - **DTU (Basic)** vs **vCore serverless with auto-pause** are two purchasing models — serverless embodies pay-per-use consumption pricing.
 - The **server firewall** blocks all access by default; you explicitly allow client IPs and Azure services.
 - **Query editor** in the portal lets you run T-SQL with zero client tooling — useful for quick verification and demos.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `lab10-queries.sql` | All the Query editor statements for this lab, ready to paste. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

@@ -137,3 +137,15 @@ Or in the portal: open `rg-az900-labs`, tick the web app and the App Service pla
 - Zip deploy via `az webapp deploy` is a simple, repeatable way to publish code to App Service.
 - **Scale up** = bigger instances (vertical); **scale out** = more instances (horizontal); higher tiers unlock autoscale.
 - App names must be globally unique because they form part of the public `*.azurewebsites.net` DNS name.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `index.html` | The sample page to deploy — a styled version of the HTML in Step 4. |
+| `deploy-webapp.sh` | Zips `index.html` and deploys it to your web app: `bash deploy-webapp.sh <app-name>`. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

@@ -1,0 +1,37 @@
+# Lab 7 — the same container group expressed as declarative YAML.
+#
+# Edit `dnsNameLabel` below to something globally unique (e.g. az900-abc1234),
+# then deploy from Cloud Shell in this folder:
+#
+#   az container create --resource-group rg-az900-labs --file container-group.yaml
+#
+# Compare this with the `az container create` command in the lab: same result,
+# but the YAML is version-controllable infrastructure-as-code.
+
+apiVersion: 2019-12-01
+location: southeastasia
+name: aci-az900-hello
+properties:
+  osType: Linux
+  restartPolicy: Always
+  containers:
+    - name: hello-world
+      properties:
+        image: mcr.microsoft.com/azuredocs/aci-helloworld
+        ports:
+          - port: 80
+            protocol: TCP
+        resources:
+          requests:
+            cpu: 1.0
+            memoryInGB: 1.0
+  ipAddress:
+    type: Public
+    dnsNameLabel: az900-CHANGE-ME
+    ports:
+      - port: 80
+        protocol: TCP
+tags:
+  course: az900
+  lab: "07"
+type: Microsoft.ContainerInstance/containerGroups

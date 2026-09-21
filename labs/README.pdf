@@ -1,0 +1,384 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://azure.microsoft.com/free)
+>> /Border [ 0 0 0 ] /Rect [ 68.3622 686.0969 228.2247 698.6969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portal.azure.com)
+>> /Border [ 0 0 0 ] /Rect [ 150.6507 663.5969 269.6682 676.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://shell.azure.com)
+>> /Border [ 0 0 0 ] /Rect [ 71.8587 648.0969 176.9007 660.6969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-01-azure-portal-tour/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 492.3094 291.7867 505.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-01-azure-portal-tour/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 479.3094 177.7392 492.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-02-cloud-shell-cli/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 456.3094 293.9052 469.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-02-cloud-shell-cli/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 443.3094 159.2522 456.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-03-regions-availability-zones/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 420.3094 303.3957 433.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-03-regions-availability-zones/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 407.3094 134.4477 420.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://datacenters.microsoft.com/globe/explore)
+>> /Border [ 0 0 0 ] /Rect [ 441.6395 419.5969 522.437 430.9969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://datacenters.microsoft.com/globe/explore)
+>> /Border [ 0 0 0 ] /Rect [ 322.063 406.5969 440.851 417.9969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.azurespeed.com)
+>> /Border [ 0 0 0 ] /Rect [ 322.063 393.5969 444.024 404.9969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-04-windows-vm-portal/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 299.3094 307.0912 312.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-05-linux-vm-cli/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 263.3094 266.9727 276.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-06-app-service-webapp/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 240.3094 287.0367 253.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-07-container-instances/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 217.3094 280.1682 230.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-07-container-instances/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 204.3094 148.7072 217.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-08-virtual-network/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 181.3094 283.3317 194.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-08-virtual-network/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 168.3094 159.7842 181.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-09-storage-blobs/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 145.3094 301.8282 158.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-09-storage-blobs/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 132.3094 141.3162 145.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-10-azure-sql/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 109.3094 242.1682 122.3094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-11-entra-id/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 86.30935 301.2772 99.30935 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 
+  25 0 R 26 0 R 27 0 R ] /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-12-rbac/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 691.5094 251.6492 704.5094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-13-tags-locks/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 668.5094 288.0912 681.5094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-14-azure-policy/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 645.5094 261.6907 658.5094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-15-cost-management/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 622.5094 306.0272 635.5094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-15-cost-management/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 609.5094 184.0852 622.5094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://azure.microsoft.com/pricing/calculator/)
+>> /Border [ 0 0 0 ] /Rect [ 322.063 608.7969 512.652 620.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://azure.microsoft.com/pricing/tco/calculator/)
+>> /Border [ 0 0 0 ] /Rect [ 517.934 608.7969 523.216 620.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://azure.microsoft.com/pricing/tco/calculator/)
+>> /Border [ 0 0 0 ] /Rect [ 322.063 595.7969 522.684 607.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-16-monitoring/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 573.5094 292.2997 586.5094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (lab-16-monitoring/)
+>> /Border [ 0 0 0 ] /Rect [ 108.0472 560.5094 215.7582 573.5094 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/Annots [ 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R ] /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+40 0 obj
+<<
+/Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+41 0 obj
+<<
+/PageMode /UseNone /Pages 43 0 R /Type /Catalog
+>>
+endobj
+42 0 obj
+<<
+/Author (Tertiary Infotech Pte Ltd) /CreationDate (D:20260921161911+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260921161911+08'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (AZ-900 Hands-on Lab) /Title (Microsoft Azure Fundamentals \(AZ-900\) \204 Lab Index) /Trapped /False
+>>
+endobj
+43 0 obj
+<<
+/Count 3 /Kids [ 28 0 R 39 0 R 40 0 R ] /Type /Pages
+>>
+endobj
+44 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2446
+>>
+stream
+Gatm=>BAQ-&q9SYfU4O.NmcE6!Utj9agI=+3_m^3[@,M6$Um>s>DZ;[.#L+La.EP(Zm_&;3#RJQES8=?Mqnn:!]L$&g&KG<i9)OoHlt[&9G]r6bCSme]UteoI9,tCVLr)Zn_R_-jUQj.:\eNJOCE?n>0N`UQt+gfoj*rf@IcF=A?+(3L<G(T;S\')1(Vt\dG[^6j5fclF)K`nDZKbA0GRL+TmVSjaWf7Z>/IBWE22T7@/;6EIk[lZjLM^;\K5bE!cPt(!MhHf$='&*?j4:3#3Lc2P5t#8Slm]4cB:e<LKU/C2M!`qN*;`*Vgc+,LU0&FW7l'L:\#C.#kp=<MS1oM:+:o0k-Gj8fg**qo&9`T_@=RC_gX:5O-KK['@+c!9g0kEnZB(N]5B3;fCCCC>7+r?&Jq];4Yj4Fc0kg<`,(+p4lm>N/lsQ*KeimQRm<E-#al%Q[Yj=5KbU969c-=`2UTL2>/]K-YNB0,)YbB&]GB=7"dgjKhPbW7(SO^J>*jbD;7aIq]'a9V$imZVD\(GbD*1Wmb[V*?<!'C7*^2*!$fPiU5L)%nP`T848>sQfrO\p(OI_b_MP4odM(Vc^.b+?]3Y'ag>J\HZ6`aStdnaq*o;S#s-QRZ!]?&MPh9Otf.9<K4$(7PQ:9sW7PuVGq$XJhX=.Z?9e]Tpt!hH'G$MV.f?N$C3-)A-UemX6f_D3K7@8$SGjrHPZ,%e>O]"`e&C_`OnlHj-\Z.[E'E<J?X;_a$;0UY9PE8;ck:6!uQ<$^L`Nml3kW0Pp!5qXMo&$i_2"Wdc(H\e,G:S53.2c2")i\:g.Tpn-/moUk8Kq]AJ]SKbE7UGP4e"t-fYEg=aX0F+-6<GH5:GUaD8e`.TRiEpRF<:F6_=$+&lTk#\,/oa3A0:i,FGgbuKgA\WiVqWQ2\t2D)[\F";(ES?q+pud-+'d#Y>ui@@(YZ"7#Auek,3#sM_2LK#!%N`Nm+#7gtOU>Cdb"VmE?Du(/>[cLCj:_Q43-&P+DQ#@.Dt!53=U%^Dogh8[cDQ*7qTGijm^_ZWd+gG-uX/5N<4;rHZ`2*@M#VjUe.e-M:ZBlOX.#a\Up(0Kq]O"2\',6t2oc%\t]en<j1C!HHV##IH-59&TAVDpT[<1'#YHd5n2,3#^ua5cQQ'1r`pfcGs$LYSkL1^]T?88&8h'R9RrDgoa5NL%1P]6d1tCL=k0SEccAPbb1aHK<)G<0>2a_e["Rq;HoqVH\>r7q:@oW*FocG?I$Yc2jheFimd(UDqi+MMgnk:`!B9rVAaU071_4TS=,"ll[VCo66bYaMVCKo#f_N"@\tI_R0\u=Kd*FaKQ/;,Lq2Q\B#'1(.UAm<q_HBE1gtP-kbE^W<:Yh[4F\W%[,2.loDM/R-o='M:hi\O]3$^pO1/MU12I3_;H_s:h$KKl*XQ#8%7Z!2-(4&,!$`_F@fld%nGO,Is)#)7&b>fMs/R6"+)i0nk@_ionnT(P?B80mI]dMV8",7OiLg80mGQca(USs_Uke\cSu,#jX]\9<Db?0pEuSF_)j:7,YhXN&_[,^c6E6PFAG^3#BV&8h9O*AnZ<eUM@u8NO_7SMU-eE*c9XS?^D-VS,^H_U6h0F0Lf/_,5%3MQ_9%dX^?JCHjN?JNB1>04k77l$`.CdcXXg/%MD5.2;Gm=tRgm=#)W_j/!0$?E"oN.$Xs6]kc@D75UB/-<NWP"7(d2+nq%qCq=D`AXQD0B4*U\%Af=tut\N-I@8L_jP+[Sm_jcSaO0gI&WP:O@p7D%WS;`/EVXm\P#mZoc;"X@t<qpMi72:*GP.T.ISO"H@E#Nce^F0PQqWa(Ld;/j5#!T"=\nL.Om.Xj-pB8n%\7i@n]]H"71fiaeYK'`9"F]g\+[3Nmgtb)IR;4fkdj\BO\7!B?VB>FbF>ggAsu"Zs`jLQQ;Q[#3e9e@J9JQ^c7)=G7"8*Q^M5!:%I_7CuXTk9`s4hr+7T3<cPR"@tW[E;\+l4cEb]N8im=o*3!8$6/(D+A"pJC(bsD/<\umUds28$hk_K]Yd5PmgfDiH/Hs8Y6>QhB12_K9f194+^:;7nn$jfLXKTD%3bH*JM@^`1=f/\(]_956@GPJq_II:.eG?YIq;#e.[5Zl)1TUK(&Va,`0<L$2D/0'/2.td-_1HkXD9]^[tcn/V4fZbK2/9=RX(<N50M1?`RlIu)F*6kY;/X'[,2XoJT6i%S?[;NZ28CsN5pj>+qQomh7to)^1X,XJG!TfD.3B&\_@Je%-FU#.Za1k=0f'JE"Amh%PR>l'N8%WlEB18'.lTHFSu\u;kg5]A/3AJ'qLI9BQeb%2:^\lp//$k7bIRGG@#[d"tbuld2f4s/s;TkE2+=[RY-JCot]u>8TQ'/Y'A<njH3f9RpF[J8h7P[FlB_8jso0Q_Ih?;g'&?p(M%ck+N*MsN8%7VXgLOYdHJBsYt@a(j6fN6fq2>\i9^JK+s45~>endstream
+endobj
+45 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2537
+>>
+stream
+GauHNlYkfA'*"Q<@Xu?2hUZ:,;:"%VJ8?:o(<JGG0s52P&'%47XKF+",q>mPrp_qC*gX-Y30(2`An>_uRGi(=o:SIe^`TTV&!d4akAYf?JXS9B!,<)Rk#ZLV5PfD";*7;:M,V)8bVjm-_TQTcW#!a;]42K9QmOMF(t<_GQnMlg*<fT7V[jD8s!TW'QUMPXV+;kmF1@^0r]9W[j6dr'T)`qpabXSFplIV6;?RB;OTM[rp^ZH$_>IN68kYam\AWQh[4Um&570)K.u7gW^'DSt%GOfWe=:jSl2)]7_t-aRk\W'61Y8;("IkgtVp*l-MrFBn,6HA2eghQIY!K#TpkW]ESbW`nbE2hDWmtLA\a0KQ#$=93j7q%*b1(&\OJg;V3DYu(8q=aKBtA79nfWkY70W!7:N51u=5ZXUhks6o96_'T`0_FP_I</qn(tH[q:MH[cZUdsCn$E$-W(7V(G*TQ/p1utRJ:+(_md]]rR>n)X(r484bNPWi6u.K>^UiEZ^XsRNcR+k4ZIe3CQ[_&0kO0r$4b3-L;p/KUcqh6[[PkhWWklHF+ml:G0BYs@sl%s4k$k>>Hd!:RlKWif&!L3pjFf:e+SW6+I`0_s*5b!UI[^P,^I/riH2!Y:T/:][*aeEY=/4R+uORpWg5Pl*.-e3#7aL]5iapf7rhIt`)#htcZT<\?lL_phP;#Ye00KbqLK2i4!7d$HNV-_X&Zfe:EiSm%--!15NY#82/fYGi,cY3D4j)FcJ)15GAn=q70p@1&J"p2)i);d)TTN,p'0/&0_[&=D^C"[ZZ+*uDpgTPf&N,>CstIl\)SM:A:#;,bZd/\9V#LSEu?Pi<]A0rcdG3nBoLACjsP,377!/#_ASDe,3CZ*VR9<cq:SPianm90'QOHIa!se6];:kYQ[4q>[']/>mjmkYU0A4Zo!>h2RAOt1;&Z;F?*VnZG+f,(Kp8Y9jS5)m+_4^lN?h&]a/]i6j.O6K=>LmoG$=1_,>?QCSi_an62Hl1Sf$c6apXa\]^Y;`Gb$/nD@(d.GR>8/;j=,8.NqUG1jk1$oK0Ptfi&T@`rCK!4N;'->d,\?9--0JiBr1&jbLD_(.fOC*f;q3!4S."#\(W6=g@6gm77*QD7hSOle(<rk#4Xt#UETs(;\XLD6tXuVXuQ?F`<h'_hQ+n(5^EJ#pF/LE*/=.ODRj6<"lLuBG#2_'!O_P>tV*K$oTT(=S$;A.XEnLkoY75$/;`i)^F)UDObP*&Zb.QLl3$GL?gd%@hd[8)l6%dluT6/l'CeIUq`aCRm3gWOKTf<(*Y;=1"q4^IZJ5dHYkiSWg1<Ifj8MS8sFMl4<oiKA%!03i:U@eFnY)Ic?Xp(5oiRF_m];ONdX`R3b?ee*eLdQo?/s=LAE!Ah\*=!,,!s=m4Id<0NP+Q<VHmX.!Tlsp@_C[XLs0B$,fHu;co=,i#=YfqTu#f<Jt8aT&REEWfZKmj?M6U)>f;':6j\cS4)or&QsSWD@25^cY<(j<tEs-Z4:QSriWZ6g"u9\D<<@<%Fc9'dHoHk[ELh6[oaqaa#o';97G3.JYn5iX>V9USEe3:[N@9bnDRW?6+,->G\lfR>14a?K2[S+#H5kM\e;Cp^^@Z@[;>9LVQ_VpP\uEI?4O4,<6_KbbCO87:H?d2UgeA66oR+J@r7-UUQRksiFrg"4Ia0A-_jY1;Q'9SF%u&FhTU!Fo-:To#b;V&s-C>9@h&0-\m`%C^En7,O?S<T_#e(p%hE@oM@?4!7o9P++\.a,ktto-E7j[p2+NH@Pr?'sWkK(k_HJIB>&_POr%P0]='-nr19QnSdAj7cTK[-qcaOq@@9<^nLnfSuf<eP_:mM3d9A2>&HMGXG^]R*C^0c+pi0S71L_-)E@F$Y$(Ve:fQEq]oqO9BZOM-[U<&(S%2F<.]d\!l!$pIseSmPidAI/=c1++l>$W.fna^nKU1.i5Qc,V]f5)8BD12n]2!AeLn%\m>82ImOdCb)"HV0K!,c2$H8h(&ToMD8XO>J.`m&5U*7qQqd5n#^sc<cP]gPUH99UNa:IRUQ`1&Fg+RW;:OFeUK\Y[=e;0J!Fo_fdp0@jn;8&:6fMb+_nuB4l.X<Zt=LERV"lnkbk"8(gO%M28Q%KfHhXEnZ%d9(3*t6<0n5]47"3$OD5ZTr*&#l1rA0B#qH*i)25ebXE?AM[N)J/Rkrl*Ct2t)]\2R4iW$^&(o$QXo7BV;VhL#R0rC-k;;N`i6:TulD.V,0#3tT_4UO%np(l)/o@7)5?XN376s9)G;NqaA,i1gMTF*J)H6sIKbL+)ILPh]kN`"B;!J[JRONLT"`i'5E*8SFKW;d[+]9^5cK-6W-`eRC'eM.s-oj:ItYGUgLm8*c5(Q#UCYPJ6H&_;"k'Ftj1A?%</'u&>V@A+e&;+jA%oNgS7hCBh#Il17IHiinn=9D'3j/S;j&kO>]eQ+#r<)qWRqpV4"-Y7Uh@\pH^K/0lce28Se)#o3E<]2tn(@!6X`Y%XjouF&?Nmb62.h*')o-LE*j6Ru+68M\M&a:'8m8L/hq"^a._pSJa\)$(E~>endstream
+endobj
+46 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 771
+>>
+stream
+GatU0CN#[r'`H=\3$2kB\i.P4VQ!JfaL%q3R[/Ai.TJ<mKSl/HOA2/:j(BDZA5+/p'Tid3cb8M3CR]n/+)Cmh9Ak5Wis>hZ&8,B7nI_DP;s`:$rCkj;6q$b/KF9I()?,Y.h>gZM?$_/scNEnJAKh\AQZ1:BR450lX)[uOD%n=4SL."+l_LIum@JbkMC?/%!.G$T13K1U%DM&-XOV-<Md#)@:(Ion+[0_@N9U]f&0[IV>OWi)/+=.&KRuZ:8/P/82UO9m+YGu@7,Xu<#MqWl&J$;-&qYHU@bfk$'tA:]et><FfRX+GM2YtUII6B2K@_[s->XF_@d>sihD5_o0_$2Q1PZp9=B>j+<c>3K'kNOPY>LY]:mC8[<sr"Bf!e];n\cAe]'"ofP\598.\,F$MsZjJ9=rd?dU6,.!iQo\"f#,[aK=]UPs-F/:e;iS6chV<km(2A(jNoYRdHa[0]K>ADnG"Onnm-f_rjnJ!TLRBgPt.a0M@M80X6Q4s$kKGAS_lncnK6phF_[H7H``K;D%C@*HnKOa]J.t[QD)?3-jjQH.caENqUoMjS#Mk=*d^.?E1Qaas?ZlW?99SX,E#P,[%5X<1;FLSg2W%'ZoasQatKq\"3?onApF#G)+G)Te?K\0I^rtl5OThFqQl2XWh\nTH<BQ?l&B17WHj\AUE'@m<r/Tl:%[4mZV.UFK3QE[H(qbAeeHcp,MZo5'P?//$ciiHC`6]de:;`8T[U?1dcJAl$2<'c+[0+-Q4=!0f3G+_"e(sd9lV~>endstream
+endobj
+xref
+0 47
+0000000000 65535 f 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000514 00000 n 
+0000000690 00000 n 
+0000000864 00000 n 
+0000000969 00000 n 
+0000001146 00000 n 
+0000001323 00000 n 
+0000001499 00000 n 
+0000001675 00000 n 
+0000001862 00000 n 
+0000002049 00000 n 
+0000002248 00000 n 
+0000002446 00000 n 
+0000002623 00000 n 
+0000002801 00000 n 
+0000002974 00000 n 
+0000003153 00000 n 
+0000003333 00000 n 
+0000003513 00000 n 
+0000003689 00000 n 
+0000003865 00000 n 
+0000004039 00000 n 
+0000004213 00000 n 
+0000004383 00000 n 
+0000004552 00000 n 
+0000004932 00000 n 
+0000005097 00000 n 
+0000005268 00000 n 
+0000005441 00000 n 
+0000005617 00000 n 
+0000005793 00000 n 
+0000005991 00000 n 
+0000006193 00000 n 
+0000006395 00000 n 
+0000006566 00000 n 
+0000006737 00000 n 
+0000007025 00000 n 
+0000007231 00000 n 
+0000007301 00000 n 
+0000007639 00000 n 
+0000007714 00000 n 
+0000010252 00000 n 
+0000012881 00000 n 
+trailer
+<<
+/ID 
+[<c8a232332cbddf955afdcf48e3064144><c8a232332cbddf955afdcf48e3064144>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 42 0 R
+/Root 41 0 R
+/Size 47
+>>
+startxref
+13743
+%%EOF

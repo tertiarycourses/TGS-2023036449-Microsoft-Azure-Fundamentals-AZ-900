@@ -189,3 +189,14 @@ All course clean-up was performed in Steps 9–12:
 - **Azure Monitor Metrics** charts platform time-series data with no setup; the **Activity log** is the subscription audit trail of who did what.
 - **Log Analytics** stores detailed logs queried with **KQL**, and alert rules plus **action groups** turn signals into notifications and automation.
 - Deleting a resource group removes every resource inside it — the fastest way to guarantee a lab environment stops costing money.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `cleanup-course.sh` | **Full course clean-up** — removes the lock and deletes `rg-az900-labs` (asks to confirm). |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

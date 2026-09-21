@@ -121,3 +121,14 @@ Optional: if you added extra dashboard tiles you don't want, open **Dashboard** 
 - What a resource group is — a logical, lifecycle-based container for Azure resources — and that its region only stores metadata.
 - How to apply tags (`course=az900`) for organisation and cost governance.
 - That the portal, CLI and PowerShell are all front ends to the same Azure Resource Manager control plane.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `verify-lab01.sh` | Optional Cloud Shell check that your resource group was created correctly. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

@@ -131,3 +131,14 @@ The command returns silently on success. **Do not skip this** — Lab 16's final
 - Resource locks (**Delete/CanNotDelete** and **Read-only/ReadOnly**) prevent accidental change and apply even to Owners, overriding RBAC permissions.
 - Locks at a parent scope (resource group) are inherited by all child resources.
 - Governance tooling like tags and locks addresses accidents and organisation — RBAC addresses *who* is allowed to act.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `apply-tags-locks.sh` | Applies the governance tags and the `CanNotDelete` lock in one run. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+

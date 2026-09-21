@@ -188,3 +188,15 @@ VMs bill per second while allocated, so do this before ending the session.
 - A VM (or service) **without a public IP** is unreachable from the internet — a fundamental security control.
 - **NSG default rules** allow intra-VNet traffic and deny all other inbound traffic; rules are evaluated by priority.
 - **Public endpoints** expose services to the internet; **private endpoints/Private Link** keep service traffic inside your VNet.
+
+---
+
+## Files in this lab folder
+
+| File | What it is |
+|------|------------|
+| `deploy-vnet.sh` | Builds the VNet, both subnets and both VMs in one run. |
+| `cleanup-vnet.sh` | Removes the VMs, NICs, NSGs, public IP, disks and the VNet. |
+
+The scripts are optional conveniences — the lab steps above teach the same thing command by command. Upload a script to Cloud Shell (**Manage files → Upload**), or clone this repo there, then run it with `bash <script-name>`.
+
