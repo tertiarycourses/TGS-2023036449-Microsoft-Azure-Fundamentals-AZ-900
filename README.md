@@ -33,28 +33,28 @@ The trainer artifact is the editable PPTX. Detailed click paths, commands, troub
 
 ### Describe cloud concepts
 
-- [Lab 1 — Tour the Azure Portal and create a resource group](labs/lab-01-azure-portal-tour.md)
-- [Lab 2 — Use Azure Cloud Shell, CLI and PowerShell](labs/lab-02-cloud-shell-cli.md)
-- [Lab 3 — Explore regions, region pairs and availability zones](labs/lab-03-regions-availability-zones.md)
+- [Lab 1 — Tour the Azure Portal and create a resource group](labs/lab-01-azure-portal-tour/)
+- [Lab 2 — Use Azure Cloud Shell, CLI and PowerShell](labs/lab-02-cloud-shell-cli/)
+- [Lab 3 — Explore regions, region pairs and availability zones](labs/lab-03-regions-availability-zones/)
 
 ### Describe Azure architecture and services
 
-- [Lab 4 — Create a Windows virtual machine](labs/lab-04-windows-vm-portal.md)
-- [Lab 5 — Create a Linux virtual machine with Azure CLI](labs/lab-05-linux-vm-cli.md)
-- [Lab 6 — Create an App Service web app](labs/lab-06-app-service-webapp.md)
-- [Lab 7 — Deploy Azure Container Instances](labs/lab-07-container-instances.md)
-- [Lab 8 — Build a virtual network and test private connectivity](labs/lab-08-virtual-network.md)
-- [Lab 9 — Use Azure Storage and Blob Storage](labs/lab-09-storage-blobs.md)
-- [Lab 10 — Create an Azure SQL Database](labs/lab-10-azure-sql.md)
-- [Lab 11 — Work with Microsoft Entra ID users and groups](labs/lab-11-entra-id.md)
+- [Lab 4 — Create a Windows virtual machine](labs/lab-04-windows-vm-portal/)
+- [Lab 5 — Create a Linux virtual machine with Azure CLI](labs/lab-05-linux-vm-cli/)
+- [Lab 6 — Create an App Service web app](labs/lab-06-app-service-webapp/)
+- [Lab 7 — Deploy Azure Container Instances](labs/lab-07-container-instances/)
+- [Lab 8 — Build a virtual network and test private connectivity](labs/lab-08-virtual-network/)
+- [Lab 9 — Use Azure Storage and Blob Storage](labs/lab-09-storage-blobs/)
+- [Lab 10 — Create an Azure SQL Database](labs/lab-10-azure-sql/)
+- [Lab 11 — Work with Microsoft Entra ID users and groups](labs/lab-11-entra-id/)
 
 ### Describe Azure management and governance
 
-- [Lab 12 — Manage access with Azure RBAC](labs/lab-12-rbac.md)
-- [Lab 13 — Apply resource tags and locks](labs/lab-13-tags-locks.md)
-- [Lab 14 — Enforce standards with Azure Policy](labs/lab-14-azure-policy.md)
-- [Lab 15 — Estimate and control Azure costs](labs/lab-15-cost-management.md)
-- [Lab 16 — Use Advisor, Service Health and Azure Monitor](labs/lab-16-monitoring.md)
+- [Lab 12 — Manage access with Azure RBAC](labs/lab-12-rbac/)
+- [Lab 13 — Apply resource tags and locks](labs/lab-13-tags-locks/)
+- [Lab 14 — Enforce standards with Azure Policy](labs/lab-14-azure-policy/)
+- [Lab 15 — Estimate and control Azure costs](labs/lab-15-cost-management/)
+- [Lab 16 — Use Advisor, Service Health and Azure Monitor](labs/lab-16-monitoring/)
 
 ## Public/private boundary
 
